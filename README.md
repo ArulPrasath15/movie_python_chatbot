@@ -12,6 +12,5 @@ This Movie Bot gives us the information about the movie's rating, duration, gene
 
 
 
-<img height="100%" src="https://user-images.githubusercontent.com/55018691/140002005-69e4bfb7-8438-43af-b028-f005445b6aab.jpg" width="50%"/>
-<img height="100%" src="https://user-images.githubusercontent.com/55018691/140002048-126aba74-7add-480e-ba7a-552ad474a577.jpg" width="50%"/>
+<img height="30%" src="https://user-images.githubusercontent.com/55018691/140002005-69e4bfb7-8438-43af-b028-f005445b6aab.jpg" width="30%"/>  <img height="30%" src="https://user-images.githubusercontent.com/55018691/140002048-126aba74-7add-480e-ba7a-552ad474a577.jpg" width="30%"/>
 
