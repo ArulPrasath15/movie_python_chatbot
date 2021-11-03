@@ -1,4 +1,5 @@
 # 🎬 Movie chatbot for Telegram using Python
+@knowthemovie_bot
 
 This Movie Bot gives us the information about the movie's rating, duration, gener, direction, writer, actors.
 
