@@ -5,8 +5,8 @@ This Movie Bot gives us the information about the movie's rating, duration, gene
 
 ### **Commands:**
   - _/know_ -  get information of a movie. ✅
-  - _/top10_ -  gives top 10 rated movie's name. ✅
-  - _/top25_ -  gives top 25 rated movie's name. ✅
+  - _/top10_ -  gives top 10 rated movies. ✅
+  - _/top25_ -  gives top 25 rated movies. ✅
 
 #### Functionality of _/get_ command :
 
