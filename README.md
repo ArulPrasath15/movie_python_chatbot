@@ -8,7 +8,7 @@ This Movie Bot gives us the information about the movie's rating, duration, gene
   - _/top10_ -  gives top 10 rated movies. 
   - _/top25_ -  gives top 25 rated movies. 
 
-#### Functionality of _/get_ command :
+#### Functionality of _/know command :
 
 
 
